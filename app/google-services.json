@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741402724616",
+    "project_id": "projet-android-ccm-2020",
+    "storage_bucket": "projet-android-ccm-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741402724616:android:762e8f16b283dafde5c4bd",
+        "android_client_info": {
+          "package_name": "com.tauxis.projet_android_ccm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741402724616-7ur6s7d0dml4i3qviq2ebr8uij5satba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtasfcwiSCA9JgZ3n_BZDqxiLQ0epSzWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741402724616-7ur6s7d0dml4i3qviq2ebr8uij5satba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

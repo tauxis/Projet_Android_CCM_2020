@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projet_Android_CCM</string>
+    <string name="delete_all">Tout supprimer</string>
+    <string name="ajouter_un_item">Ajouter un item</string>
+    <string name="email_empty">Aucun email renseigné</string>
+    <string name="passwd_empty">Aucun mot de passe renseigné</string>
+    <string name="passwd_short">Le mot de passe doit faire minimum 6 caractères</string>
+    <string name="no_user">Vous n\'êtes pas connecté(e)</string>
+    <string name="no_arobase">Un email doit contenir un @</string>
+    <string name="error_create">Erreur lors de la création du compte</string>
+    <string name="error_login">Erreur lors de la connexion</string>
+    <string name="connected">Vous êtes connecté</string>
+
+    <string name="accelerometer_value_x" translatable="false">Axe X :  </string>
+    <string name="accelerometer_value_y" translatable="false">Axe Y :  </string>
+    <string name="accelerometer_value_z" translatable="false">Axe Z :  </string>
+
+</resources>

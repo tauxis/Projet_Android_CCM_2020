@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet_Android_CCM</string>
+    <string name="delete_all">Delete all</string>
+    <string name="ajouter_un_item">Add item</string>
+    <string name="email_empty">Email is empty</string>
+    <string name="passwd_empty">Password is empty</string>
+    <string name="no_arobase">Email must contains @</string>
+    <string name="passwd_short">Password must be at least 6 characters long</string>
+    <string name="no_user">You are not logged in</string>
+    <string name="error_create">Error during creation of the account</string>
+    <string name="error_login">Error during connection</string>
+    <string name="connected">You are logged in</string>
+</resources>
